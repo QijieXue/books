@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.wwl.microsoft-finance-operations-apps-integrations.data-management-framework
+title: Data management framework
+metadata:
+  title: Data management framework
+  description: Data management framework
+  ms.date: 12/20/2019
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/2-data-management-framework.md)]
