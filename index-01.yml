@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​
+metadata:
+  title: Explore Microsoft Finance and Operations app integrations​
+  description: Explore Microsoft Finance and Operations app integrations​
+  ms.date: 12/20/2019
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+title: Explore Microsoft Finance and Operations app integrations​
+summary: A key feature of Microsoft Dynamics 365 is that it can easily be integrated with other Microsoft solutions as well as a myriad of third-party applications. Explore available integrations for the Finance and Operations apps.
+abstract: |
+  In this module, you will
+  - Discover the data management framework.
+  - Understand Office integration capabilities.
+  - Explore external system integration capabilities.
+prerequisites: |
+  None
+iconUrl: /learn/achievements/learn-dynamics-pr/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- dynamics
+- dynamics-finance-operations
+- office-365
+units:
+- learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​.introduction
+- learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​.data-management-framework
+- learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​.office-365-integration
+- learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​.integration-with-3rd-party-apps
+- learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​.business-events
+- learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​.knowledge-check
+- learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​.summary
+badge:
+  uid: learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​.badge
